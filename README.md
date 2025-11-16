@@ -2,6 +2,9 @@
 
 This repository contains the detailed project report and documentation for a comprehensive, multi-channel digital marketing strategy I personally executed for **Semionics (semionics.com)**.
 
+view above full Project Pdf.
+
+
 * **Role:** Digital Marketing Executive
 * **Duration:** April 2025 – November 2025
 
